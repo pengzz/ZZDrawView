@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1C0C496A21C3A57B00535D91 /* ZZDrawView0.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C0C496821C3A57B00535D91 /* ZZDrawView0.m */; };
 		1C0C497721C3A58500535D91 /* NSObject+YYModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C0C497021C3A58500535D91 /* NSObject+YYModel.m */; };
 		1C0C497821C3A58500535D91 /* YYClassInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C0C497121C3A58500535D91 /* YYClassInfo.m */; };
 		1C0C497A21C3A58500535D91 /* zz_bg_image2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C0C497421C3A58500535D91 /* zz_bg_image2.jpg */; };
@@ -47,8 +46,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1C0C496821C3A57B00535D91 /* ZZDrawView0.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZZDrawView0.m; sourceTree = "<group>"; };
-		1C0C496921C3A57B00535D91 /* ZZDrawView0.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZDrawView0.h; sourceTree = "<group>"; };
 		1C0C496B21C3A58500535D91 /* ZZDrawView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZDrawView.h; sourceTree = "<group>"; };
 		1C0C496D21C3A58500535D91 /* YYClassInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYClassInfo.h; sourceTree = "<group>"; };
 		1C0C496F21C3A58500535D91 /* YYModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYModel.h; sourceTree = "<group>"; };
@@ -190,13 +187,11 @@
 			children = (
 				6003F59C195388D20070C39A /* ZZAppDelegate.h */,
 				6003F59D195388D20070C39A /* ZZAppDelegate.m */,
-				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
 				6003F5A5195388D20070C39A /* ZZViewController.h */,
 				6003F5A6195388D20070C39A /* ZZViewController.m */,
+				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
 				1C0C497D21C3A5E700535D91 /* ViewController.h */,
 				1C0C497E21C3A5E800535D91 /* ViewController.m */,
-				1C0C496921C3A57B00535D91 /* ZZDrawView0.h */,
-				1C0C496821C3A57B00535D91 /* ZZDrawView0.m */,
 				1C0C497621C3A58500535D91 /* zz_bg_image.png */,
 				1C0C497421C3A58500535D91 /* zz_bg_image2.jpg */,
 				1C0C496C21C3A58500535D91 /* YYModel */,
@@ -426,7 +421,6 @@
 				6003F59E195388D20070C39A /* ZZAppDelegate.m in Sources */,
 				1C0C497721C3A58500535D91 /* NSObject+YYModel.m in Sources */,
 				1CBFAE8021C72A1900417915 /* ZZDrawViewSettingBoard.m in Sources */,
-				1C0C496A21C3A57B00535D91 /* ZZDrawView0.m in Sources */,
 				1CBFAE8921C73DD900417915 /* ZZDrawViewManageView.m in Sources */,
 				1C0C497B21C3A58500535D91 /* ZZDrawView.m in Sources */,
 				6003F5A7195388D20070C39A /* ZZViewController.m in Sources */,
