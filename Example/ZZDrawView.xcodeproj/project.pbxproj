@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C0C496A21C3A57B00535D91 /* ZZDrawView0.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C0C496821C3A57B00535D91 /* ZZDrawView0.m */; };
+		1C0C497721C3A58500535D91 /* NSObject+YYModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C0C497021C3A58500535D91 /* NSObject+YYModel.m */; };
+		1C0C497821C3A58500535D91 /* YYClassInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C0C497121C3A58500535D91 /* YYClassInfo.m */; };
+		1C0C497A21C3A58500535D91 /* zz_bg_image2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C0C497421C3A58500535D91 /* zz_bg_image2.jpg */; };
+		1C0C497B21C3A58500535D91 /* ZZDrawView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C0C497521C3A58500535D91 /* ZZDrawView.m */; };
+		1C0C497C21C3A58500535D91 /* zz_bg_image.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C0C497621C3A58500535D91 /* zz_bg_image.png */; };
+		1C0C497F21C3A5E800535D91 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C0C497E21C3A5E800535D91 /* ViewController.m */; };
+		1CBFAE8021C72A1900417915 /* ZZDrawViewSettingBoard.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CBFAE7F21C72A1900417915 /* ZZDrawViewSettingBoard.m */; };
+		1CBFAE8921C73DD900417915 /* ZZDrawViewManageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CBFAE8821C73DD900417915 /* ZZDrawViewManageView.m */; };
+		1CE9B9E72BC6896D00D70578 /* ZZDrawCodingBaseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CE9B9E52BC6896D00D70578 /* ZZDrawCodingBaseModel.m */; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58F195388D20070C39A /* CoreGraphics.framework */; };
 		6003F592195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
@@ -37,6 +47,25 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1C0C496821C3A57B00535D91 /* ZZDrawView0.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZZDrawView0.m; sourceTree = "<group>"; };
+		1C0C496921C3A57B00535D91 /* ZZDrawView0.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZDrawView0.h; sourceTree = "<group>"; };
+		1C0C496B21C3A58500535D91 /* ZZDrawView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZDrawView.h; sourceTree = "<group>"; };
+		1C0C496D21C3A58500535D91 /* YYClassInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYClassInfo.h; sourceTree = "<group>"; };
+		1C0C496F21C3A58500535D91 /* YYModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYModel.h; sourceTree = "<group>"; };
+		1C0C497021C3A58500535D91 /* NSObject+YYModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+YYModel.m"; sourceTree = "<group>"; };
+		1C0C497121C3A58500535D91 /* YYClassInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YYClassInfo.m; sourceTree = "<group>"; };
+		1C0C497321C3A58500535D91 /* NSObject+YYModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+YYModel.h"; sourceTree = "<group>"; };
+		1C0C497421C3A58500535D91 /* zz_bg_image2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = zz_bg_image2.jpg; sourceTree = "<group>"; };
+		1C0C497521C3A58500535D91 /* ZZDrawView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZZDrawView.m; sourceTree = "<group>"; };
+		1C0C497621C3A58500535D91 /* zz_bg_image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zz_bg_image.png; sourceTree = "<group>"; };
+		1C0C497D21C3A5E700535D91 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		1C0C497E21C3A5E800535D91 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		1CBFAE7E21C72A1900417915 /* ZZDrawViewSettingBoard.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZZDrawViewSettingBoard.h; sourceTree = "<group>"; };
+		1CBFAE7F21C72A1900417915 /* ZZDrawViewSettingBoard.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZZDrawViewSettingBoard.m; sourceTree = "<group>"; };
+		1CBFAE8721C73DD900417915 /* ZZDrawViewManageView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZZDrawViewManageView.h; sourceTree = "<group>"; };
+		1CBFAE8821C73DD900417915 /* ZZDrawViewManageView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZZDrawViewManageView.m; sourceTree = "<group>"; };
+		1CE9B9E52BC6896D00D70578 /* ZZDrawCodingBaseModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZZDrawCodingBaseModel.m; sourceTree = "<group>"; };
+		1CE9B9E62BC6896D00D70578 /* ZZDrawCodingBaseModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZDrawCodingBaseModel.h; sourceTree = "<group>"; };
 		2B139E5206CD30F1C984675E /* Pods_ZZDrawView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZZDrawView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FE8C5330A73558F32AECEA0 /* Pods-ZZDrawView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZZDrawView_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ZZDrawView_Example/Pods-ZZDrawView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		35471CF188E47446A087F3D0 /* Pods-ZZDrawView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZZDrawView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZZDrawView_Tests/Pods-ZZDrawView_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -64,9 +93,9 @@
 		7D3EAC43F742C3EB49ACFC91 /* Pods-ZZDrawView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZZDrawView_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZZDrawView_Example/Pods-ZZDrawView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C819D364A3BB7C01679F02E4 /* Pods_ZZDrawView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZZDrawView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E02263E6A3A8864FFFA764B9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		E89062883D19AE51A5DDF00E /* ZZDrawView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ZZDrawView.podspec; path = ../ZZDrawView.podspec; sourceTree = "<group>"; };
-		ED61C0E8240AC1E180EE5E68 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		E02263E6A3A8864FFFA764B9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		E89062883D19AE51A5DDF00E /* ZZDrawView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ZZDrawView.podspec; path = ../ZZDrawView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		ED61C0E8240AC1E180EE5E68 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +124,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1C0C495021C3A4FF00535D91 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1CE9B9E62BC6896D00D70578 /* ZZDrawCodingBaseModel.h */,
+				1CE9B9E52BC6896D00D70578 /* ZZDrawCodingBaseModel.m */,
+				1C0C496B21C3A58500535D91 /* ZZDrawView.h */,
+				1C0C497521C3A58500535D91 /* ZZDrawView.m */,
+				1CBFAE7E21C72A1900417915 /* ZZDrawViewSettingBoard.h */,
+				1CBFAE7F21C72A1900417915 /* ZZDrawViewSettingBoard.m */,
+				1CBFAE8721C73DD900417915 /* ZZDrawViewManageView.h */,
+				1CBFAE8821C73DD900417915 /* ZZDrawViewManageView.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		1C0C496C21C3A58500535D91 /* YYModel */ = {
+			isa = PBXGroup;
+			children = (
+				1C0C497021C3A58500535D91 /* NSObject+YYModel.m */,
+				1C0C497321C3A58500535D91 /* NSObject+YYModel.h */,
+				1C0C496D21C3A58500535D91 /* YYClassInfo.h */,
+				1C0C497121C3A58500535D91 /* YYClassInfo.m */,
+				1C0C496F21C3A58500535D91 /* YYModel.h */,
+			);
+			path = YYModel;
+			sourceTree = "<group>";
+		};
 		6003F581195388D10070C39A = {
 			isa = PBXGroup;
 			children = (
@@ -137,6 +193,14 @@
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
 				6003F5A5195388D20070C39A /* ZZViewController.h */,
 				6003F5A6195388D20070C39A /* ZZViewController.m */,
+				1C0C497D21C3A5E700535D91 /* ViewController.h */,
+				1C0C497E21C3A5E800535D91 /* ViewController.m */,
+				1C0C496921C3A57B00535D91 /* ZZDrawView0.h */,
+				1C0C496821C3A57B00535D91 /* ZZDrawView0.m */,
+				1C0C497621C3A58500535D91 /* zz_bg_image.png */,
+				1C0C497421C3A58500535D91 /* zz_bg_image2.jpg */,
+				1C0C496C21C3A58500535D91 /* YYModel */,
+				1C0C495021C3A4FF00535D91 /* Classes */,
 				71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */,
 				6003F5A8195388D20070C39A /* Images.xcassets */,
 				6003F594195388D20070C39A /* Supporting Files */,
@@ -257,6 +321,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -278,7 +343,9 @@
 			files = (
 				873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */,
 				71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */,
+				1C0C497C21C3A58500535D91 /* zz_bg_image.png in Resources */,
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
+				1C0C497A21C3A58500535D91 /* zz_bg_image2.jpg in Resources */,
 				6003F598195388D20070C39A /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -355,8 +422,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C0C497F21C3A5E800535D91 /* ViewController.m in Sources */,
 				6003F59E195388D20070C39A /* ZZAppDelegate.m in Sources */,
+				1C0C497721C3A58500535D91 /* NSObject+YYModel.m in Sources */,
+				1CBFAE8021C72A1900417915 /* ZZDrawViewSettingBoard.m in Sources */,
+				1C0C496A21C3A57B00535D91 /* ZZDrawView0.m in Sources */,
+				1CBFAE8921C73DD900417915 /* ZZDrawViewManageView.m in Sources */,
+				1C0C497B21C3A58500535D91 /* ZZDrawView.m in Sources */,
 				6003F5A7195388D20070C39A /* ZZViewController.m in Sources */,
+				1C0C497821C3A58500535D91 /* YYClassInfo.m in Sources */,
+				1CE9B9E72BC6896D00D70578 /* ZZDrawCodingBaseModel.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

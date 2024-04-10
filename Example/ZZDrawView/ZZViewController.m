@@ -7,9 +7,10 @@
 //
 
 #import "ZZViewController.h"
+#import "ZZDrawViewManageView.h"
 
 @interface ZZViewController ()
-
+@property(nonatomic, strong)ZZDrawViewManageView *drawViewManageView;
 @end
 
 @implementation ZZViewController
@@ -18,6 +19,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    self.drawViewManageView = [[ZZDrawViewManageView alloc] initWithFrame:self.view.bounds];
+    [self.view addSubview:self.drawViewManageView];
 }
 
 - (void)didReceiveMemoryWarning

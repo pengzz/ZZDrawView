@@ -1,0 +1,6 @@
+framework module ZZDrawView {
+  umbrella header "ZZDrawView-umbrella.h"
+
+  export *
+  module * { export * }
+}
